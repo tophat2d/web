@@ -1,0 +1,12 @@
+#!/bin/sh
+
+cd site
+
+for f in $(find -name \*.md); do
+	CONVED=`echo $f | cut -d. -f-2`.html
+	echo BU "$f -> $CONVED"
+	lowdown --html-no-skiphtml --html-no-escapehtml <$f | mmtt > $CONVED
+	SITE_PATH=$CONVED SITE_SRC=$f mmtt <../template.html > ../$CONVED
+	rm -f $CONVED
+done
+
