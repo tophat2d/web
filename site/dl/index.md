@@ -11,7 +11,6 @@ with installation.
                 <div class="card-text">
                     <p>
                         This is the latest release.
-
                     </p>
                     <ul>
                         <li>
@@ -36,8 +35,8 @@ with installation.
                 </div>
                 <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                        <a type="button" class="btn btn-sm btn-outline-secondary">Play</a>
-                        <a type="button" class="btn btn-sm btn-outline-secondary">View source</a>
+                        <a type="button" href="tophat-windows-current.exe" class="btn btn-sm btn-outline-secondary">Windows</a>
+                        <a type="button" href="tophat-linux-current" class="btn btn-sm btn-outline-secondary">Linux</a>
                     </div>
                 </div>
             </div>
@@ -56,8 +55,8 @@ with installation.
                 </div>
                 <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                        <a type="button" class="btn btn-sm btn-outline-secondary">Play</a>
-                        <a type="button" class="btn btn-sm btn-outline-secondary">View source</a>
+                        <a type="button" href="tophat-windows.exe" class="btn btn-sm btn-outline-secondary">Windows</a>
+                        <a type="button" href="tophat-linux" class="btn btn-sm btn-outline-secondary">Linux</a>
                     </div>
                 </div>
             </div>
@@ -71,8 +70,8 @@ with installation.
                 </div>
                 <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                        <a type="button" class="btn btn-sm btn-outline-secondary">Play</a>
-                        <a type="button" class="btn btn-sm btn-outline-secondary">View source</a>
+                        <a type="button" href="tophat-windows-v08.exe" class="btn btn-sm btn-outline-secondary">Windows</a>
+                        <a type="button" href="tophat-linux-v08" class="btn btn-sm btn-outline-secondary">Linux</a>
                     </div>
                 </div>
             </div>
