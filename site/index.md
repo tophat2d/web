@@ -144,7 +144,7 @@
 								Play
 							</a>
 							<a
-								href="https://https://git.sr.ht/~mrms/tophat/tree/main/item/examples/tetris"
+								href="https://https://git.sr.ht/~mrms/tophat/tree/main/item/examples/pomodoro"
 								class="btn btn-sm btn-outline-secondary"
 							>
 								View source
