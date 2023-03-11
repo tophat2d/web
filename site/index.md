@@ -61,72 +61,100 @@
 </div>
 
 <div class="container mb-5">
-  <h2>Play (with) the examples</h2>
-
-  <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
-	<div class="col">
-	  <div class="card shadow-sm">
-		<img class="card-img-top no-aa" widht="100%"
-			src="/img/space-shooter.png"
-		/>
-		<div class="card-body">
-		  <p class="card-text">
-			The space shooter is an arcade game, where you have to
-			shoot enemies before they descend down the screen. It shows
-			the basics of game development in tophat, featuring things
-			like movement, collision handling, particles and GUI.
-		  </p>
-		  <div class="d-flex justify-content-between align-items-center">
-			<div class="btn-group">
-				<button type="button" class="btn btn-sm btn-outline-secondary">Play</button>
-				<button type="button" class="btn btn-sm btn-outline-secondary">View source</button>
+	<h2>Play (with) the examples</h2>
+	<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+		<div class="col">
+			<div class="card shadow-sm">
+				<img class="card-img-top no-aa" widht="100%"
+					src="/img/space-shooter.png"
+				/>
+				<div class="card-body">
+					<p class="card-text">
+						The space shooter is an arcade game, where you have to
+						shoot enemies before they descend down the screen. It shows
+						the basics of game development in tophat, featuring things
+						like movement, collision handling, particles and GUI.
+					</p>
+					<div class="d-flex justify-content-between align-items-center">
+						<div class="btn-group">
+							<a
+								href="https://th.mrms.cz/examples/space-shooter"
+								class="btn btn-sm btn-outline-secondary"
+							>
+								Play
+							</a>
+							<a
+								href="https://https://git.sr.ht/~mrms/tophat/tree/main/item/examples/space-shooter"
+								class="btn btn-sm btn-outline-secondary"
+							>
+								View source
+							</a>
+						</div>
+					</div>
+				</div>
 			</div>
-		  </div>
 		</div>
-	  </div>
-	</div>
-
-	<div class="col">
-		<div class="card shadow-sm">
-			<img class="card-img-top no-aa" widht="100%"
-				src="/img/tetris.png"
-			/>
-			<div class="card-body">
-				<p class="card-text">
-					This is an implementation of a famous block game only using
-					the canvas.um module to draw graphics.  It show many ways
-					to add special effects to your games.
-				</p>
-				<div class="d-flex justify-content-between align-items-center">
-					<div class="btn-group">
-						<button type="button" class="btn btn-sm btn-outline-secondary">Play</button>
-						<button type="button" class="btn btn-sm btn-outline-secondary">View source</button>
+		<div class="col">
+			<div class="card shadow-sm">
+				<img class="card-img-top no-aa" widht="100%"
+					src="/img/tetris.png"
+				/>
+				<div class="card-body">
+					<p class="card-text">
+						This is an implementation of a famous block game only using
+						the canvas.um module to draw graphics.  It show many ways
+						to add special effects to your games.
+					</p>
+					<div class="d-flex justify-content-between align-items-center">
+						<div class="btn-group">
+							<a
+								href="https://th.mrms.cz/examples/tetris"
+								class="btn btn-sm btn-outline-secondary"
+							>
+								Play
+							</a>
+							<a
+								href="https://https://git.sr.ht/~mrms/tophat/tree/main/item/examples/tetris"
+								class="btn btn-sm btn-outline-secondary"
+							>
+								View source
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="col">
+			<div class="card shadow-sm">
+				<img class="card-img-top no-aa" widht="100%"
+					src="/img/pomodoro.png"
+				/>
+				<div class="card-body">
+					<p class="card-text">
+						A pomodoro timer made in tophat.  It features a custom GUI
+						system with fancy transitions and nine-patch rect based
+						controls.
+					</p>
+					<div class="d-flex justify-content-between align-items-center">
+						<div class="btn-group">
+							<a
+								href="https://th.mrms.cz/examples/tetris"
+								class="btn btn-sm btn-outline-secondary"
+							>
+								Play
+							</a>
+							<a
+								href="https://https://git.sr.ht/~mrms/tophat/tree/main/item/examples/tetris"
+								class="btn btn-sm btn-outline-secondary"
+							>
+								View source
+							</a>
+						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-
-	<div class="col">
-	  <div class="card shadow-sm">
-		<img class="card-img-top no-aa" widht="100%"
-			src="/img/pomodoro.png"
-		/>
-		<div class="card-body">
-		  <p class="card-text">
-			  A pomodoro timer made in tophat.  It features a custom GUI
-			  system with fancy transitions and nine-patch rect based controls.
-		  </p>
-		  <div class="d-flex justify-content-between align-items-center">
-			<div class="btn-group">
-				<button type="button" class="btn btn-sm btn-outline-secondary">Play</button>
-				<button type="button" class="btn btn-sm btn-outline-secondary">View source</button>
-			</div>
-		  </div>
-		</div>
-	  </div>
-	</div>
-  </div>
 </div>
 
 <div class="container">
@@ -138,17 +166,10 @@
 				can properties of types configured using Umka. There are
 				already type definitions included for tophat's basic types.
 			</p>
-
-			<p>
-				PropEd is still in early stages of development, but I hope it
-				will be more usable when I release this website :P.
-			</p>
-
 			<a href="https://git.sr.ht/~mrms/proped" class="btn btn-outline-primary">
 				Try PropEd
 			</a>
 		</div>
-
 		<div class="col">
 			<img src="/img/proped.png" class="no-aa" style="width: 100%" />
 		</div>
