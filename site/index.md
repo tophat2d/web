@@ -138,7 +138,7 @@
 					<div class="d-flex justify-content-between align-items-center">
 						<div class="btn-group">
 							<a
-								href="https://th.mrms.cz/examples/tetris"
+								href="https://th.mrms.cz/examples/pomodoro"
 								class="btn btn-sm btn-outline-secondary"
 							>
 								Play
