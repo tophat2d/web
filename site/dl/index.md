@@ -26,8 +26,8 @@ with installation.
                 </div>
                 <div class="d-flex justify-content-between align-items-center">
                     <div class="btn-group">
-                        <a type="button" href="tophat-windows-current.exe" class="btn btn-sm btn-outline-secondary">Windows</a>
-                        <a type="button" href="tophat-linux-current" class="btn btn-sm btn-outline-secondary">Linux</a>
+                        <a type="button" href="tophat-windows-v010.exe" class="btn btn-sm btn-outline-secondary">Windows</a>
+                        <a type="button" href="tophat-linux-v010" class="btn btn-sm btn-outline-secondary">Linux</a>
                     </div>
                 </div>
             </div>
