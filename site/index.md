@@ -24,7 +24,7 @@
 				<a href="https://git.sr.ht/~mrms/proped">PropEd</a>, or make your own
 				specialized editor.
 			</p>
-			<a href="#" class="icon-link d-inline-flex align-items-center">
+			<a href="https://docs.th.mrms.cz" class="icon-link d-inline-flex align-items-center">
 				Learn about the API
 			</a>
 		</div>
@@ -36,7 +36,7 @@
 				If you don't like some of them, you can implement your own
 				ones using native C extensions.
 			</p>
-			<a href="#" class="icon-link d-inline-flex align-items-center">
+			<a href="https://git.sr.ht/~mrms/tophat/tree/main/item/examples/extensions" class="icon-link d-inline-flex align-items-center">
 				Learn about extensions
 			</a>
 		</div>
@@ -46,7 +46,7 @@
 				Tophat's source is open and licensed under BSD-3.  The source
 				code is small, under 10k lines (excluding dependencies).
 			</p>
-			<a href="#" class="icon-link d-inline-flex align-items-center">
+			<a href="https://git.sr.ht/~mrms/tophat" class="icon-link d-inline-flex align-items-center">
 				Browse the source
 			</a>
 		</div>
