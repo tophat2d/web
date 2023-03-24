@@ -84,7 +84,7 @@
 								Play
 							</a>
 							<a
-								href="https://https://git.sr.ht/~mrms/tophat/tree/main/item/examples/space-shooter"
+								href="https://git.sr.ht/~mrms/tophat/tree/main/item/examples/space-shooter"
 								class="btn btn-sm btn-outline-secondary"
 							>
 								View source
@@ -114,7 +114,7 @@
 								Play
 							</a>
 							<a
-								href="https://https://git.sr.ht/~mrms/tophat/tree/main/item/examples/tetris"
+								href="https://git.sr.ht/~mrms/tophat/tree/main/item/examples/tetris"
 								class="btn btn-sm btn-outline-secondary"
 							>
 								View source
@@ -144,7 +144,7 @@
 								Play
 							</a>
 							<a
-								href="https://https://git.sr.ht/~mrms/tophat/tree/main/item/examples/pomodoro"
+								href="https://git.sr.ht/~mrms/tophat/tree/main/item/examples/pomodoro"
 								class="btn btn-sm btn-outline-secondary"
 							>
 								View source
