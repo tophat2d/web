@@ -1,6 +1,6 @@
 # Tophat downloads
 
-See the [install guide](https://docs.th.mrms.cz/installation.html) for help
+See the [install guide](https://docs.tophat2d.dev/installation.html) for help
 with installation.
 
 <div class="row mt-5">

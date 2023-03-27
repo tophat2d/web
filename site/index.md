@@ -7,8 +7,8 @@
 	  <p class="lead mb-4">A 2D Framework for making games in <a
 		href="https://github.com/vtereshkov/umka-lang">Umka</a></p>
 	  <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
-		<a href="https://th.mrms.cz/dl/" class="btn btn-primary btn-lg px-4">Downloads</a>
-		<a href="https://docs.th.mrms.cz/" class="btn btn-outline-secondary btn-lg px-4 gap-3">Documentation</a>
+		<a href="https://tophat2d.dev/dl/" class="btn btn-primary btn-lg px-4">Downloads</a>
+		<a href="https://docs.tophat2d.dev/" class="btn btn-outline-secondary btn-lg px-4 gap-3">Documentation</a>
 	  </div>
 	</div>
 </div>
@@ -24,7 +24,7 @@
 				<a href="https://git.sr.ht/~mrms/proped">PropEd</a>, or make your own
 				specialized editor.
 			</p>
-			<a href="https://docs.th.mrms.cz" class="icon-link d-inline-flex align-items-center">
+			<a href="https://docs.tophat2d.dev" class="icon-link d-inline-flex align-items-center">
 				Learn about the API
 			</a>
 		</div>
@@ -78,7 +78,7 @@
 					<div class="d-flex justify-content-between align-items-center">
 						<div class="btn-group">
 							<a
-								href="https://th.mrms.cz/examples/space-shooter"
+								href="https://tophat2d.dev/examples/space-shooter"
 								class="btn btn-sm btn-outline-secondary"
 							>
 								Play
@@ -108,7 +108,7 @@
 					<div class="d-flex justify-content-between align-items-center">
 						<div class="btn-group">
 							<a
-								href="https://th.mrms.cz/examples/tetris"
+								href="https://tophat2d.dev/examples/tetris"
 								class="btn btn-sm btn-outline-secondary"
 							>
 								Play
@@ -138,7 +138,7 @@
 					<div class="d-flex justify-content-between align-items-center">
 						<div class="btn-group">
 							<a
-								href="https://th.mrms.cz/examples/pomodoro"
+								href="https://tophat2d.dev/examples/pomodoro"
 								class="btn btn-sm btn-outline-secondary"
 							>
 								Play
