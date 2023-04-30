@@ -62,7 +62,37 @@
 
 <div class="container mb-5">
 	<h2>Play (with) the examples</h2>
-	<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+	<div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 g-3">
+		<div class="col">
+			<div class="card shadow-sm">
+				<img class="card-img-top no-aa" widht="100%"
+					src="/img/flappy.png"
+				/>
+				<div class="card-body">
+					<p class="card-text">
+                        The well known flappy bird game, written in tophat. It
+                        is very small and simple - implemented in just one 300
+                        line file.
+					</p>
+					<div class="d-flex justify-content-between align-items-center">
+						<div class="btn-group">
+							<a
+								href="https://tophat2d.dev/examples/flappy"
+								class="btn btn-sm btn-outline-secondary"
+							>
+								Play
+							</a>
+							<a
+								href="https://git.sr.ht/~mrms/tophat/tree/main/item/examples/flappy"
+								class="btn btn-sm btn-outline-secondary"
+							>
+								View source
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
 		<div class="col">
 			<div class="card shadow-sm">
 				<img class="card-img-top no-aa" widht="100%"
