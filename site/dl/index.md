@@ -3,10 +3,77 @@
 See the [install guide](https://docs.tophat2d.dev/installation.html) for help
 with installation.
 
-<div class="row mt-5">
+<div class="row mt-5 row-cols-1 row-cols-sm-1 row-cols-md-3">
     <div class="col">
         <div class="card shadow-sm p-3">
-            <h2>Current Stable - v0.10 (recommended)</h2>
+            <h2>Current Stable - v1.0 (recommended)</h2>
+            <div class="card-body">
+                <div class="card-text">
+                    <ul>
+                        <li>
+                            add a new UI framework
+                        </li>
+                        <li>
+                            add web playground
+                        </li>
+                        <li>
+                            add flappy bird example
+                        </li>
+                        <li>
+                            add viewport offsets
+                        </li>
+                        <li>
+                            remove cameras
+                        </li>
+                        <li>
+                            add clipboard support
+                        </li>
+                        <li>
+                            add <code>window.quit</code>
+                        </li>
+                        <li>
+                            add ninepatch scale parameter
+                        </li>
+                        <li>
+                            add <code>onDestroy</code> callback
+                        </li>
+                        <li>
+                            bugfixes and improvements
+                        </li>
+                    </ul>
+                </div>
+                <div class="d-flex justify-content-between align-items-center">
+                    <div class="btn-group">
+                        <a type="button" href="tophat-windows-v10.exe" class="btn btn-sm btn-outline-secondary">Windows</a>
+                        <a type="button" href="tophat-linux-v10" class="btn btn-sm btn-outline-secondary">Linux</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card shadow-sm p-3">
+            <h2>Unstable (Not recommended)</h2>
+            <div class="card-body">
+                <div class="card-text">
+                    <p>
+                        Built automatically from the `main` branch on every
+                        push. It contains the newest features, but main contain
+                        bugs and unannounced API changes.
+                    </p>
+                </div>
+                <div class="d-flex justify-content-between align-items-center">
+                    <div class="btn-group">
+                        <a type="button" href="tophat-windows.exe" class="btn btn-sm btn-outline-secondary">Windows</a>
+                        <a type="button" href="tophat-linux" class="btn btn-sm btn-outline-secondary">Linux</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card shadow-sm p-3">
+            <h2>stable v0.10</h2>
             <div class="card-body">
                 <div class="card-text">
                     <ul>
@@ -28,26 +95,6 @@ with installation.
                     <div class="btn-group">
                         <a type="button" href="tophat-windows-v010.exe" class="btn btn-sm btn-outline-secondary">Windows</a>
                         <a type="button" href="tophat-linux-v010" class="btn btn-sm btn-outline-secondary">Linux</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="col">
-        <div class="card shadow-sm p-3">
-            <h2>Unstable (Not recommended)</h2>
-            <div class="card-body">
-                <div class="card-text">
-                    <p>
-                        Built automatically from the `main` branch on every
-                        push. It contains the newest features, but main contain
-                        bugs and unannounced API changes.
-                    </p>
-                </div>
-                <div class="d-flex justify-content-between align-items-center">
-                    <div class="btn-group">
-                        <a type="button" href="tophat-windows.exe" class="btn btn-sm btn-outline-secondary">Windows</a>
-                        <a type="button" href="tophat-linux" class="btn btn-sm btn-outline-secondary">Linux</a>
                     </div>
                 </div>
             </div>
