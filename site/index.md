@@ -201,7 +201,7 @@
                     known as ske). It revolves around saving and resetting the
                     game's state to solve puzzles and get through the levels.
                 </p>
-                <a href="https://ske.land/savegame" class="btn btn-outline-primary">
+                <a href="https://skejeton.itch.io/savescum" class="btn btn-outline-primary">
                     Play the Prologue
                 </a>
             </div>
