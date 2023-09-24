@@ -40,7 +40,7 @@ with installation.
                 <div class="card-text">
                     <p>
                         Built automatically from the <code>main</code> branch on every
-                        push. It contains the newest features, but main contain
+                        push. It contains the newest features, but may contain
                         bugs and unannounced API changes.
                     </p>
                 </div>
