@@ -6,7 +6,49 @@ with installation.
 <div class="row mt-5 row-cols-1 row-cols-sm-1 row-cols-md-3">
     <div class="col">
         <div class="card shadow-sm p-3">
-            <h2>Current Stable - v1.1 (recommended)</h2>
+            <h2>Current Stable - v1.2 (recommended)</h2>
+            <div class="card-body">
+                <div class="card-text">
+                    <ul>
+                        <li>Add DPI awareness</li>
+                        <li>Add cursor support</li>
+                        <li>UI improvements</li>
+                        <li>Improve the tetris example</li>
+                        <li>Minor bugfixes and improvements</li>
+                    </ul>
+                </div>
+                <div class="d-flex justify-content-between align-items-center">
+                    <div class="btn-group">
+                        <a type="button" href="tophat-windows-v12.exe" class="btn btn-sm btn-outline-secondary">Windows</a>
+                        <a type="button" href="tophat-linux-v12" class="btn btn-sm btn-outline-secondary">Linux</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card shadow-sm p-3">
+            <h2>Unstable</h2>
+            <div class="card-body">
+                <div class="card-text">
+                    <p>
+                        Built automatically from the <code>main</code> branch on every
+                        push. It contains the newest features, but may contain
+                        bugs and unannounced API changes.
+                    </p>
+                </div>
+                <div class="d-flex justify-content-between align-items-center">
+                    <div class="btn-group">
+                        <a type="button" href="tophat-windows.exe" class="btn btn-sm btn-outline-secondary">Windows</a>
+                        <a type="button" href="tophat-linux" class="btn btn-sm btn-outline-secondary">Linux</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card shadow-sm p-3">
+            <h2>Stable - v1.1</h2>
             <div class="card-body">
                 <div class="card-text">
                     <ul>
@@ -28,26 +70,6 @@ with installation.
                     <div class="btn-group">
                         <a type="button" href="tophat-windows-v11.exe" class="btn btn-sm btn-outline-secondary">Windows</a>
                         <a type="button" href="tophat-linux-v11" class="btn btn-sm btn-outline-secondary">Linux</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="col">
-        <div class="card shadow-sm p-3">
-            <h2>Unstable</h2>
-            <div class="card-body">
-                <div class="card-text">
-                    <p>
-                        Built automatically from the <code>main</code> branch on every
-                        push. It contains the newest features, but may contain
-                        bugs and unannounced API changes.
-                    </p>
-                </div>
-                <div class="d-flex justify-content-between align-items-center">
-                    <div class="btn-group">
-                        <a type="button" href="tophat-windows.exe" class="btn btn-sm btn-outline-secondary">Windows</a>
-                        <a type="button" href="tophat-linux" class="btn btn-sm btn-outline-secondary">Linux</a>
                     </div>
                 </div>
             </div>
