@@ -1,9 +1,13 @@
 # Tophat downloads
 
+## Download using PAK
+
 The preferred way of installing tophat is using the
 [PAK](https://pak.tophat2d.dev/package/tophat) package manager. However you can download older
 tophat version here if you need them. See the [install
 guide](https://docs.tophat2d.dev/installation.html) for help with installation.
+
+## Direct download
 
 <div class="row mt-5 row-cols-1 row-cols-sm-1 row-cols-md-3">
     <div class="col">
