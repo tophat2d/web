@@ -18,11 +18,9 @@
 		<div class="feature col">
 			<h3 class="fs-2">Made for programmers</h3>
 			<p>
-				Tophat allows you to do everything programatically and doesn't
-				force you to work with annoying editors.  However if you need
-				to do a lot of editing you can use
-				<a href="https://git.sr.ht/~mrms/proped">PropEd</a>, or make your own
-				specialized editor.
+                Tophat allows you to easily accomplish everything
+                programatically and doesn't force you to work with annoying
+                editors. However you can always make your own ad-hoc editor.
 			</p>
 			<a href="https://docs.tophat2d.dev" class="icon-link d-inline-flex align-items-center">
 				Learn about the API
