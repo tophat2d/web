@@ -3,8 +3,8 @@
 ## Download using PAK
 
 The preferred way of installing tophat is using the
-[PAK](https://pak.tophat2d.dev/package/tophat) package manager. However you can download older
-tophat version here if you need them. See the [install
+[UmBox](https://umbox.tophat2d.dev/package/tophat) package manager. However you
+can download older tophat version here if you need them. See the [install
 guide](https://docs.tophat2d.dev/installation.html) for help with installation.
 
 ## Direct download
