@@ -1,6 +1,6 @@
 # Tophat downloads
 
-## Download using PAK
+## Download using UmBox
 
 The preferred way of installing tophat is using the
 [UmBox](https://umbox.tophat2d.dev/package/tophat) package manager. However you
