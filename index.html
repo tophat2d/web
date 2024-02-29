@@ -277,6 +277,9 @@
 <div style="background-color: #488e51; color: white">
     <div class="container">
         <div class="row row-cols-1 row-cols-lg-2 pt-5 pb-5">
+            <div class="col">
+                <img src="/img/rail.png" style="width: 100%" />
+            </div>
             <div class="col mb-3">
                 <h3>Rail dispatcher game</h3>
                 <p>
@@ -289,8 +292,38 @@
                     #80c668">development logs</a>.
                 </p>
             </div>
+        </div>
+    </div>
+</div>
+<div style="background-color: #222221; color: white">
+    <div class="container">
+        <div class="row row-cols-1 row-cols-lg-2 pt-5 pb-5">
+            <div class="col mb-3">
+                <h3>I ❤︎ FEM</h3>
+                <p>
+                    A finite element method demo in Umka and tophat made by
+                    Vasiliy Tereshkov. This demo models mechanical stresses and
+                    deformations in elastic materials and can serve as a
+                    tutorial for learning the fundamentals of finite element
+                    analysis.
+                </p>
+                <p>
+                    The project is deliberalely kept very simple. It consists of three main parts:
+                </p>
+                <ul>
+                    <li><b>2D editor</b>, a GUI tool for entering plate geometry, constraints and forces, as well as material properties</li>
+                    <li><b>Triangulation procedure</b> that computes the Delaunay triangular mesh using the Bowyer-Watson algorithm, with an enhancement to support insertion of plate boundary edges missing from the vanilla triangulation</li>
+                    <li><b>Finite element solver</b> that constructs the stiffness matrices for all the mesh triangles, combines them into the global stiffness matrix and solves the linear equations w.r.t. vertex displacements. It also computes the equivalent stresses using the von Mises criterion</li>
+                </ul>
+                <a href="https://vtereshkov.github.io/fem/" class="btn btn-primary">
+                    Try Online
+                </a>
+                <a href="https://github.com/vtereshkov/fem" class="btn btn-outline-primary">
+                    Source Code
+                </a>
+            </div>
             <div class="col">
-                <img src="/img/rail.png" style="width: 100%" />
+                <img src="/img/fem3.gif" style="width: 100%" />
             </div>
         </div>
     </div>
