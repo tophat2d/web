@@ -34,7 +34,7 @@
 				If you don't like some of them, you can implement your own
 				ones using native C extensions.
 			</p>
-			<a href="https://git.sr.ht/~mrms/tophat/tree/main/item/examples/extensions" class="icon-link d-inline-flex align-items-center">
+			<a href="https://github.com/marekmaskarinec/tophat/tree/main/examples/extensions" class="icon-link d-inline-flex align-items-center">
 				Learn about extensions
 			</a>
 		</div>
@@ -44,7 +44,7 @@
 				Tophat's source is open and licensed under BSD-3.  The source
 				code is small, under 10k lines (excluding dependencies).
 			</p>
-			<a href="https://git.sr.ht/~mrms/tophat" class="icon-link d-inline-flex align-items-center">
+			<a href="https://github.com/marekmaskarinec/tophat" class="icon-link d-inline-flex align-items-center">
 				Browse the source
 			</a>
 		</div>
