@@ -82,7 +82,7 @@
 								Play
 							</a>
 							<a
-								href="https://git.sr.ht/~mrms/tophat/tree/main/item/examples/flappy"
+								href="https://github.com/marekmaskarinec/tophat/tree/main/demos/flappy"
 								class="btn btn-sm btn-outline-secondary"
 							>
 								View source
@@ -113,7 +113,7 @@
 								Play
 							</a>
 							<a
-								href="https://git.sr.ht/~mrms/tophat/tree/main/item/examples/space-shooter"
+								href="https://github.com/marekmaskarinec/tophat/tree/main/demos/space-shooter"
 								class="btn btn-sm btn-outline-secondary"
 							>
 								View source
@@ -143,7 +143,7 @@
 								Play
 							</a>
 							<a
-								href="https://git.sr.ht/~mrms/tophat/tree/main/item/examples/tetris"
+								href="https://github.com/marekmaskarinec/tophat/tree/main/demos/tetris"
 								class="btn btn-sm btn-outline-secondary"
 							>
 								View source
