@@ -35,7 +35,7 @@
 				If you don't like some of them, you can implement your own
 				ones using native C extensions.
 			</p>
-			<a href="https://github.com/marekmaskarinec/tophat/tree/main/examples/extensions" class="icon-link d-inline-flex align-items-center">
+			<a href="https://github.com/tophat2d/tophat/tree/main/demos/extensions" class="icon-link d-inline-flex align-items-center">
 				Learn about extensions
 			</a>
 		</div>
@@ -45,7 +45,7 @@
 				Tophat's source is open and licensed under BSD-3.  The source
 				code is small, under 10k lines (excluding dependencies).
 			</p>
-			<a href="https://github.com/marekmaskarinec/tophat" class="icon-link d-inline-flex align-items-center">
+			<a href="https://github.com/tophat2d/tophat" class="icon-link d-inline-flex align-items-center">
 				Browse the source
 			</a>
 		</div>
@@ -82,7 +82,7 @@
 								Play
 							</a>
 							<a
-								href="https://github.com/marekmaskarinec/tophat/tree/main/demos/flappy"
+								href="https://github.com/tophat2d/tophat/tree/main/demos/flappy"
 								class="btn btn-sm btn-outline-secondary"
 							>
 								View source
@@ -113,7 +113,7 @@
 								Play
 							</a>
 							<a
-								href="https://github.com/marekmaskarinec/tophat/tree/main/demos/space-shooter"
+								href="https://github.com/tophat2d/tophat/tree/main/demos/space-shooter"
 								class="btn btn-sm btn-outline-secondary"
 							>
 								View source
@@ -143,7 +143,7 @@
 								Play
 							</a>
 							<a
-								href="https://github.com/marekmaskarinec/tophat/tree/main/demos/tetris"
+								href="https://github.com/tophat2d/tophat/tree/main/demos/tetris"
 								class="btn btn-sm btn-outline-secondary"
 							>
 								View source

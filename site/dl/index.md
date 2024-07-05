@@ -25,4 +25,4 @@ Unstable builds can also be downloaded directly from this website.
 * [Window](https://tophat2d.dev/dl/tophat-windows.exe)
 
 If you require older versions of tophat, they can be downloaded from releases
-on [GitHub](https://github.com/marekmaskarinec/tophat/releases).
+on [GitHub](https://github.com/tophat2d/tophat/releases).
