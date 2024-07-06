@@ -22,7 +22,8 @@ umbox init tophat
 Unstable builds can also be downloaded directly from this website.
 
 * [Linux](https://tophat2d.dev/dl/tophat-linux)
-* [Window](https://tophat2d.dev/dl/tophat-windows.exe)
+* [Windows](https://tophat2d.dev/dl/tophat-windows.exe)
+* [Emscripten library](https://tophat2d.dev/dl/th_emscripten.a)
 
 If you require older versions of tophat, they can be downloaded from releases
 on [GitHub](https://github.com/tophat2d/tophat/releases).
