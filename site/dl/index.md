@@ -14,7 +14,7 @@ umbox install tophat
 If you are starting a new project, you can make use of the tophat init preset:
 
 ```
-umbox init tophat
+umbox init -p tophat
 ```
 
 ## Direct Downloads
