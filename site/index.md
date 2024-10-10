@@ -215,6 +215,9 @@
 <div style="background-color: #222221; color: white">
     <div class="container">
         <div class="row row-cols-1 row-cols-lg-2 pt-5 pb-5">
+            <div class="col">
+                <img src="/img/fem3.gif" style="width: 100%" />
+            </div>
             <div class="col mb-3">
                 <h3>I ❤︎ FEM</h3>
                 <p>
@@ -238,9 +241,6 @@
                 <a href="https://github.com/vtereshkov/fem" class="btn btn-outline-primary">
                     Source Code
                 </a>
-            </div>
-            <div class="col">
-                <img src="/img/fem3.gif" style="width: 100%" />
             </div>
         </div>
     </div>
@@ -294,9 +294,6 @@
 <div style="background-color: #488e51; color: white">
     <div class="container">
         <div class="row row-cols-1 row-cols-lg-2 pt-5 pb-5">
-            <div class="col">
-                <img src="/img/rail.png" style="width: 100%" />
-            </div>
             <div class="col mb-3">
                 <h3>Rail dispatcher game</h3>
                 <p>
@@ -308,6 +305,9 @@
                     <a href="https://mrms.cz/game" style="color:
                     #80c668">development logs</a>.
                 </p>
+            </div>
+            <div class="col">
+                <img src="/img/rail.png" style="width: 100%" />
             </div>
         </div>
     </div>
