@@ -197,10 +197,11 @@
             <div class="col mb-3">
                 <h3>SAVESCUM</h3>
                 <p>
-                    <a href="https://ske.land/savegame">SAVESCUM</a> is a puzzle
-                    platformer that's being worked on by Sviatoslav Shatunov (also
-                    known as ske). It revolves around saving and resetting the
-                    game's state to solve puzzles and get through the levels.
+                    <a href="https://ske.land/savegame">SAVESCUM</a> is a
+                    puzzle platformer that's being worked on by ske from <a
+                    href="ske.land">ske.land</a>. It revolves around saving and
+                    resetting the game's state to solve puzzles and get through
+                    the levels.
                 </p>
                 <a href="https://skejeton.itch.io/savescum" class="btn btn-outline-primary">
                     Play the Prologue
