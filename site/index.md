@@ -199,7 +199,7 @@
                 <p>
                     <a href="https://ske.land/savegame">SAVESCUM</a> is a
                     puzzle platformer that's being worked on by ske from <a
-                    href="ske.land">ske.land</a>. It revolves around saving and
+                    href="https://ske.land">ske.land</a>. It revolves around saving and
                     resetting the game's state to solve puzzles and get through
                     the levels.
                 </p>
